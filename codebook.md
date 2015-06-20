@@ -1,6 +1,7 @@
 #This is the code book for the getting-data course project.  As per the instructions each variable is defined and explained.  Further information can be found in the included features_info.txt file.
 
-*subject This is the subject number. Each different number represents a unique subject in our experiment.
+* subject
+>This is the subject number. Each different number represents a unique subject in our experiment.
 
 * activity
 This is a categorical variable which represents the activity that the subject was engaged in during the measurement.  It’s possible values are:
