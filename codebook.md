@@ -4,25 +4,25 @@
 >This is the subject number. Each different number represents a unique subject in our experiment.
 
 * activity
-This is a categorical variable which represents the activity that the subject was engaged in during the measurement.  It’s possible values are:
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+>This is a categorical variable which represents the activity that the subject was engaged in during the measurement.  It’s possible values are:
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 * Average_tBodyAcc_mean_X
-This is the mean of all sample means for the X component of the body acceleration for a particular subject during a particular activity. This is a time domain signal captured at a constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
+>This is the mean of all sample means for the X component of the body acceleration for a particular subject during a particular activity. This is a time domain signal captured at a >constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
 
 * Average_tBodyAcc_mean_Y
-This is the mean of all sample means for the Y component of the body acceleration for a particular subject during a parti`cular activity. This is a time domain signal captured at a constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
+>This is the mean of all sample means for the Y component of the body acceleration for a particular subject during a parti`cular activity. This is a time domain signal captured at a >constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
 
 * Average_tBodyAcc_mean_Z
-This is the mean of all sample means for the Y component of the body acceleration for a particular subject during a particular activity. This is a time domain signal captured at a constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
+>This is the mean of all sample means for the Y component of the body acceleration for a particular subject during a particular activity. This is a time domain signal captured at a >constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
 
 * Average_tBodyAcc_std_X
-This is the mean of all standard deviations for the X component of the body acceleration for a particular subject during a particular activity. This is a time domain signal captured at a constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
+>This is the mean of all standard deviations for the X component of the body acceleration for a particular subject during a particular activity. This is a time domain signal captured >at a constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
 
 * Average_tBodyAcc_std_Y
 This is the mean of all standard deviations for the Y component of the body acceleration for a particular subject during a particular activity. This is a time domain signal captured at a constant rate of 50 Hz. Then filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
